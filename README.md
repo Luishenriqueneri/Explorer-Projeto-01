@@ -1,6 +1,6 @@
 # Explorer-Projeto-01
 
-Um projeto desenvolvido em minha primeira aula do Explorer.
+Um projeto desenvolvido em minha primeira aula do Explorer, curso ministrado pela Rocketseat.
 
 Se trata de um anúncio de móveis costumizados e design de interiores.
 
